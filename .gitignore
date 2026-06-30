@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+.venv/
+
+# Dataset (download separately - see README)
+data/
+*.zip
+
+# Caches / checkpoints
+checkpoints/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/processed/
+
+# Scratch / smoke-test artifacts
+_smoke.ipynb
+Archive.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Not part of this project / internal
+WasHW/
+.claude/
+MEMORY.md
+PROJECT_CHECKLIST.md
+haifaUEX*.pdf
+/DS_Cybersecurity_project (2).ipynb
+/DS_Cybersecurity_project_local.ipynb
+/*.docx

@@ -1,0 +1,8 @@
+,Autoencoder,IsolationForest
+roc_auc,0.8954,0.8682
+precision,0.8938,0.8188
+recall,0.736,0.7337
+f1,0.8073,0.7739
+f2,0.763,0.7492
+mcc,0.7383,0.6813
+accuracy,0.8902,0.8661
