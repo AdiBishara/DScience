@@ -1,7 +1,7 @@
 # Critical Reproduction: Autoencoder-Based Network Intrusion Detection on CIC-IDS2017
 
 **Final Project — Data Science in Cyber (Dr. Uri Itai), University of Haifa**
-**Author:** [Your name]
+**Author:** Adi Bishara
 
 A critical reproduction and evaluation of **brett-gt's *Intrusion Detection System***,
 an autoencoder-based network anomaly detector trained on the CIC-IDS2017 dataset.
